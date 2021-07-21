@@ -6,7 +6,7 @@ Un simple bot radio ^^
 
 Installer bien [Discord JS](https://discord.js.org/#/) sur votre projet sinon le bot de marchera jamais !!
 
-### Prérequis
+### PrÃ©requis
 
 - Un bot avec un token [Discord Developper Application](https://discord.com/developers/applications/726766282354982912/information) (oui oui, je vous jure ^^)
 - Discord JS = [Discord JS](https://discord.js.org/#/)
@@ -15,7 +15,7 @@ Installer bien [Discord JS](https://discord.js.org/#/) sur votre projet sinon le
 - Opusscript = [Opusscript](https://www.npmjs.com/package/opusscript)
 - FFmpeg Static = [ffmpeg-static](https://www.npmjs.com/package/ffmpeg-static)
 
-### 1er démarrage
+### 1er dÃ©marrage
 
 Aller dans le fichier [/config.json](https://github.com/SaabniaTv/Alice-Radio-Bot-Discord-2/blob/main/config.json), et remplacer "token" par votre bot Token !
 
@@ -24,7 +24,7 @@ Aller dans le fichier [/config.json](https://github.com/SaabniaTv/Alice-Radio-Bo
 ## Config
 Changez tous les placeholders du fichier ``config.json``.:
  - `token`: Ton bot token
- - `streamurl`: L'ID du chanel
+ - `streamurl`: Le lien Ã  strem (lien radio nrj, ou youtube ou autres)
  - `name`: Le statue du bot (joue a.....)
  - `prefix`: Le prefix du bot
 
